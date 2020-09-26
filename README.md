@@ -6,7 +6,7 @@ This repository will contains list of all the dreams that I have in my mind with
 
 2. Read ```1000``` Random **Books**.
 
-3. Solve ```10000``` Coding Interactive **Competetive Probelms.
+3. Solve ```10000``` Coding Interactive **Competetive Problems**.
 
 4. Learn **Swimming** in **Profession Level**.
 
