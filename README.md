@@ -92,3 +92,9 @@ This repository will contain a list of all the dreams that I have in my mind wit
 44. Want to be a **world** recognised **Hacker**.
 
 45. Learn **deaf sign language** with **expression and lips synchronisation**.
+
+46. Learn **Kathak** dance.
+
+47. Trained with advance in **Kalaripayattu** an Indian **martial art** and **fighting style**.
+
+48. 
