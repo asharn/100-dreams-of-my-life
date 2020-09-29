@@ -45,7 +45,7 @@ This repository will contain a list of all the dreams that I have in my mind wit
 21. Will create my own **personal website**.
 
 22. Chanting of **Hare Krishna Hare Krishna Krishna Krishna Krishna Hare Hare**\
-                  **Hare Rama Hare Rama Rama Rama Hare Hare** 
+                  **Hare Rama Hare Rama Rama Rama Hare Hare**\
                   for 108 times complete mala for ```21``` days.
 23. Create ```one``` tech **YouTube channel**.
 
@@ -81,7 +81,7 @@ This repository will contain a list of all the dreams that I have in my mind wit
 
 39. Reach upto ```1M``` reputations on **stackoverflow** website.
 
-40 ```250``` **patents** on my name.
+40. ```250``` **patents** on my name.
 
 41. ```10K``` **git public repository** with more than ```1 star```.
 
@@ -97,4 +97,29 @@ This repository will contain a list of all the dreams that I have in my mind wit
 
 47. Trained with advance in **Kalaripayattu** an Indian **martial art** and **fighting style**.
 
-48. 
+48. Learn to **Cook Indian Food**(Most of the dishes).
+
+49. Watch ```1000``` **movies** of all types.
+
+50. **No-fab(Brahmacarya)** for complete ```6``` years.
+
+51. **One day fasting** in a week for more than ```10``` years.
+
+52. Recognized as **Ted Speaker** for more than ```10``` times.
+
+53. Learn to work with **left hand**, especially nicely able to **write with both hand**.
+
+54. **Sleep** ```100``` nights continously **under sky**.
+
+55. Want to **play basket ball** with **championion**.
+
+56. Change my and my surrounding life towards **vegiterian**.
+
+57. Want to be the solution for **Nature** rather than problem.
+
+58. Never consume **alcohol intentively** in my entire life.
+
+59. Develop a **world recognized application** for the **wellfare of humanity**.
+
+60. Develop ```250``` **mobile application** for almost **free of cost**.
+
