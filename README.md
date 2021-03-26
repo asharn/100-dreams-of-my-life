@@ -123,3 +123,51 @@ This repository will contain a list of all the dreams that I have in my mind wit
 
 60. Develop ```250``` **mobile application** for almost **free of cost**.
 
+61. Develop ```250``` **web application** for almost **free of cost**.
+
+62. **Die** Gracefully.
+
+63. Answers ```10K``` Questions and Ask ```2.5K``` Questions on **Quora**.
+
+64. ```1``` leg squat ```50``` reps.
+
+65. Climb **Coconut or Pine** tree without any support.
+
+66. Travel to **another planet** other then earth. 
+
+67. Create own **research work station** simillar to ISRO or NASA.  
+
+68. Act and Direct ```one``` **Sci-Fi movie**.
+
+69. Read ```1000``` **auto/biography** of great personality.
+
+70. Read **Bible and Quran** once.
+
+71. Build ```6``` pack abs in ```6``` months.
+
+72. Complete **academic qualification** upto **PHD**.
+
+73. Create ```500``` drawing, arts and crafts.
+
+74. Learn **Ice skating, skatboarding, inline skating etc**.
+
+75. Build temple of **SITA RAM with HANUMAN** on planet then on other planet.
+
+76. Read more than ```25``` books related to **Homeopathy and Naturopathy**.
+
+77. Became **4 x Grandmaster** on Kaggle platform.
+
+78. ```7``` **star** or **Red coder** on **codechef** with rating greater than ```3000```.
+
+79. Read books **Thinking in Java, Database written by KORTH, H.C. verma, Chanakya Niti, Kamasutra Shastra,** etc.
+
+80. Read ```four``` **Veddas books(Upanishads and Purans)**.
+
+81. ```1M``` **Git** commit completion.
+
+82. Travel to **Paris** and visit **Eiffel Tower**.
+
+83. ```10K``` **TED Video** watch and review them.
+
+84. ....
+
